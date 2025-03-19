@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm jhgj</h1>
+<h1 align="center">Hi 👋, I'm Diaa Ahmed </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaaahmed9&label=Profile%20views&color=0e75b6&style=flat" alt="diaaahmed9" /> </p>
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/adf" target="blank"><img src="https://img.shields.io/twitter/follow/adf?logo=twitter&style=for-the-badge" alt="adf" /></a> </p>
 
-- 🔭 I’m currently working on [jhk](jhg)
+- 🔭 I’m currently working on [Aatene](jhg)
 
-- 👯 I’m looking to collaborate on [jh](hjk)
+- 👯 I’m looking to collaborate on [WOW](hjk)
 
-- 🤝 I’m looking for help with [jkh](kjh)
+- 🤝 I’m looking for help with [Asiafe Developer](kjh)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
