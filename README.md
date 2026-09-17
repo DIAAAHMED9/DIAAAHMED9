@@ -91,6 +91,20 @@
 
 ---
 
+### 🐍 Contribution Activity (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIAAAHMED9/DIAAAHMED9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIAAAHMED9/DIAAAHMED9/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DIAAAHMED9/DIAAAHMED9/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
