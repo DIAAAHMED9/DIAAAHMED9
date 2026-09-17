@@ -3,12 +3,21 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Diaa%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20🚀&descAlignY=60&descSize=20" width="100%" alt="Diaa Ahmed Banner" />
 
+  <br/><br/>
+
+  <!-- Profile Avatar -->
+  <a href="https://github.com/DIAAAHMED9">
+    <img src="./assets/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Diaa Ahmed Profile" />
+  </a>
+
+  <br/><br/>
+
   <!-- Animated Typing Text -->
   <a href="https://github.com/DIAAAHMED9">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Hi+there!+%F0%9F%91%8B;I'm+Diaa+Ahmed;Welcome+to+my+digital+space;Check+out+my+projects+and+links+below!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Profile Views & Followers Badges -->
   <p align="center">
@@ -56,10 +65,10 @@
 
 <div align="center">
 
-| Project | Live Link | Description |
-| :--- | :---: | :--- |
-| 🏢 **Asiafe** | [asiaf.com.sa](https://asiaf.com.sa/) | 🌐 [Visit Asiafe](https://asiaf.com.sa/) |
-| 🛍️ **Aatene** | [aatene.com](https://aatene.com/) | 🌐 [Visit Aatene](https://aatene.com/) |
+| Project       |                  Live Link                  | Description                                   |
+| :------------ | :-----------------------------------------: | :-------------------------------------------- |
+| 🏢 **Asiafe** |    [asiaf.com.sa](https://asiaf.com.sa/)    | 🌐 [Visit Asiafe](https://asiaf.com.sa/)      |
+| 🛍️ **Aatene** |      [aatene.com](https://aatene.com/)      | 🌐 [Visit Aatene](https://aatene.com/)        |
 | 🩺 **Hakeem** | [hakeem.com.sa](https://www.hakeem.com.sa/) | 🌐 [Visit Hakeem](https://www.hakeem.com.sa/) |
 
 </div>
@@ -73,16 +82,16 @@
 <div align="center">
 
   <a href="https://github.com/DIAAAHMED9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIAAAHMED9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diaa's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=DIAAAHMED9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diaa's GitHub Stats" />
   </a>
   <a href="https://github.com/DIAAAHMED9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIAAAHMED9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DIAAAHMED9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/DIAAAHMED9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIAAAHMED9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=DIAAAHMED9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -91,7 +100,7 @@
 
 ---
 
-### 🐍 Contribution Activity (Snake Game)
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
